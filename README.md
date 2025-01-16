@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Fhoughton/Fhoughton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hey, I'm Felix 👋
+- 📖 Psycholgy @ [The University of Kent](https://www.kent.ac.uk/).
+  
+- 🔭 Computer Vision Developer @ [Ingenium Biometrics](https://ingeniumbiometrics.com/).
+  
+- 🌱 Currently exploring reverse-engineering of retro games and programming language development.
+  
+- 🎨 Outside of my work, I'm interested in reading, mindfulness and bushcraft!
+  
+- 📫 Send me an email at [fdphoughton@protonmail.com](mailto:fdphoughton@protonmail.com). I'm always open to chat!
