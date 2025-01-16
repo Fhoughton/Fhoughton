@@ -1,5 +1,5 @@
 ## Hey, I'm Felix 👋
-- 📖 Psycholgy @ [The University of Kent](https://www.kent.ac.uk/).
+- 📖 Psychology @ [The University of Kent](https://www.kent.ac.uk/).
   
 - 🔭 Computer Vision Developer @ [Ingenium Biometrics](https://ingeniumbiometrics.com/).
   
