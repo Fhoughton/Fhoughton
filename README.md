@@ -1,10 +1,10 @@
 ## Hey, I'm Felix 👋
-- 📖 Psychology @ [The University of Kent](https://www.kent.ac.uk/).
+- 💻 Biometric Systems Developer at [Ingenium Biometrics](https://ingeniumbiometrics.com/).
   
-- 🔭 Computer Vision Developer @ [Ingenium Biometrics](https://ingeniumbiometrics.com/).
+- 🎓 BSc (Hons) Psychology, 2:1 at [The University of Kent](https://www.kent.ac.uk/).
   
-- 🌱 Currently exploring reverse-engineering of retro games and programming language development.
+- 🧠 Interested in exploring stack-oriented programming languages in my spare time
   
-- 🎨 Outside of my work, I'm interested in reading, mindfulness and bushcraft!
+- 🎨 Outside of work I enjoy card games, retro game modding, and reading non-fiction.
   
 - 📫 Send me an email at [fdphoughton@protonmail.com](mailto:fdphoughton@protonmail.com). I'm always open to chat!
